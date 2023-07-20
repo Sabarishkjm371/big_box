@@ -2,6 +2,6 @@
 using namespace std;
 
 main(){
-auto num = 10;
-cout << "num = " << num << endl;
+auto num = 10; //dynamically typed
+cout << "num = " << num << endl; // printing num
 }
