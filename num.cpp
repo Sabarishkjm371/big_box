@@ -3,5 +3,5 @@ using namespace std;
 
 main(){
 auto num = 10;
-cout << "num == " << num << endl;
+cout << "num = " << num << endl;
 }
